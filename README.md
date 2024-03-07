@@ -1,4 +1,5 @@
 # OOTDiffusion
+https://youtu.be/ak7xyM-jFJM
 This repository is the official implementation of OOTDiffusion
 
 [Try our OOTDiffusion](https://ootd.ibot.cn/)
